@@ -1,0 +1,12 @@
+name: 'tekartik_materializecss_asset'
+version: 0.0.1
+description: >
+  A mobile-friendly web app with routing, responsive CSS, and (optional) Sass
+  support.
+author: Alexandre Roux <alex@tekartik.com>
+#homepage: https://www.example.com
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  tekartik_jquery_asset:
+      git: git://github.com/alextekartik/tekartik_jquery_asset.dart

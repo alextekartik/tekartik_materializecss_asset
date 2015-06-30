@@ -1,0 +1,7 @@
+# Dart
+build/
+packages/
+pubspec.lock
+
+# Webstorm
+.idea/
