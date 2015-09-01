@@ -5,3 +5,4 @@ pubspec.lock
 
 # Webstorm
 .idea/
+.packages
